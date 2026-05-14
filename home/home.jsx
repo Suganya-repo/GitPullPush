@@ -9,6 +9,8 @@ const HomePage = () => {
       <p>This is a simple home page componen.</p>
       <h2>welcome to everyone</h2>
       //lfkshdfsjdfljodfjosjfd//
+      //kdfhieruoweurjhsidfosufosf//
+      <h3>Have a great day!</h3>
     </div>
     
   );
